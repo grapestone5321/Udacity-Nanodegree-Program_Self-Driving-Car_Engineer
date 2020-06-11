@@ -14,13 +14,23 @@ Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perce
 
 - Project: Finding Lane Lines
 
+https://github.com/grapestone5321/sdcnd-finding_lane_lines
+
 - Project: Advanced Lane Finding
+
+https://github.com/grapestone5321/sdcnd-advanced_lane_finding
 
 - Project: Traffic Sign Classifier
 
+https://github.com/grapestone5321/sdcnd-traffic_sign_classifier
+
 - Project: Behavioral Cloning
 
+https://github.com/grapestone5321/sdcnd-behavioral_cloning
+
 - Project: Extended Kalman Filters
+
+https://github.com/grapestone5321/sdcnd-extended_kalman_filters
 
 Estimated time: 93 days
 
@@ -37,15 +47,29 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 
 - Project: Kidnapped Vehicle
 
+https://github.com/grapestone5321/sdcnd-kidnapped_vehicle
+
 - Project: Highway Driving
+
+https://github.com/grapestone5321/sdcnd-highway_driving
 
 - Project: PID Controller
 
+https://github.com/grapestone5321/scdnd-pid_controller
+
 - Project: Improve Your LinkedIn Profile
+
+https://www.linkedin.com/in/grapestone5321/?locale=en_US
 
 - Project: Optimize Your GitHub Profile
 
+https://github.com/grapestone5321
+
+Udacity Git Commit Message Style Guide: http://udacity.github.io/git-styleguide/
+
 - Project: Programming a Real Self-Driving Car
+
+https://github.com/grapestone5321/sdcnd-programming_a_real_self_driving_car
 
 Estimated time: 96 days
 
